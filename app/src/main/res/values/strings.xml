@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Felicitacion</string>
+    <string name="felices_fiestas">{Felices fiestas}</string>
+    <string name="a_todos">{A todos}</string>
+    <string name="otraanimacion">OtraAnimacion</string>
+    <string name="secuencia_de_fondos">Secuencia de fondos</string>
+</resources>
