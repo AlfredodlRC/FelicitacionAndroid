@@ -25,7 +25,7 @@
         android:fontFamily="@font/beautybeast"
         android:text="@string/felices_fiestas"
         android:textAlignment="center"
-        android:textColor="@color/purple_700"
+        android:textColor="@color/purple_pink"
         android:textSize="28sp" />
 
     <TextView
@@ -38,7 +38,7 @@
         android:layout_marginTop="605dp"
         android:fontFamily="@font/beautybeast"
         android:text="@string/a_todos"
-        android:textColor="@color/purple_700"
+        android:textColor="@color/purple_pink"
         android:textSize="28sp" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -52,6 +52,8 @@
         android:clickable="true"
         android:contentDescription="@string/otraanimacion"
         android:focusable="true"
+
+        app:backgroundTint="#c071fe"
         app:srcCompat="@android:drawable/ic_input_add" />
 
 
